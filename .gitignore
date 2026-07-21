@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+*.app
+Icon.icns
+Assets/icon-1024.png
+Assets/icon.iconset/
+.DS_Store
+*.xcuserstate
