@@ -1,3 +1,5 @@
+<img src=".github/social-preview.png" alt="nodaysidle — NODAYSIDLE" width="100%">
+
 <p align="center">
   <img src="Assets/icon.svg" width="128" height="128" alt="nodaysidle application icon">
 </p>
